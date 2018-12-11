@@ -1,0 +1,14 @@
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\bin\Debug\netcoreapp2.1\backend1.deps.json
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\bin\Debug\netcoreapp2.1\backend1.runtimeconfig.json
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\bin\Debug\netcoreapp2.1\backend1.runtimeconfig.dev.json
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\bin\Debug\netcoreapp2.1\backend1.dll
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\bin\Debug\netcoreapp2.1\backend1.pdb
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\obj\Debug\netcoreapp2.1\backend1.csprojAssemblyReference.cache
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\obj\Debug\netcoreapp2.1\backend1.csproj.CoreCompileInputs.cache
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\obj\Debug\netcoreapp2.1\backend1.RazorAssemblyInfo.cache
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\obj\Debug\netcoreapp2.1\backend1.RazorAssemblyInfo.cs
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\obj\Debug\netcoreapp2.1\backend1.AssemblyInfoInputs.cache
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\obj\Debug\netcoreapp2.1\backend1.AssemblyInfo.cs
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\obj\Debug\netcoreapp2.1\backend1.RazorTargetAssemblyInfo.cache
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\obj\Debug\netcoreapp2.1\backend1.dll
+C:\Users\Victor Gram\Documents\code\opn\Assignment\backend1\obj\Debug\netcoreapp2.1\backend1.pdb
